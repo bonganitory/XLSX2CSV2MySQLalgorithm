@@ -1,0 +1,11 @@
+FormName,FormPath,FormID,FormDescription
+Timecard,"\\CompanyServer\publicshare\forms\timecard.docx",ID-1001,"Work form to document hours worked per week."
+"Employee Referral Form","\\CompanyServer\publicshare\forms\referral.docx",ID-1002,"Recruiting department form to recommend potential employees."
+"Flexible Spending Account Reimbursement","\\CompanyServer\publicshare\forms\fsaexpense.docx",ID-1003,"Benefits form to submit flexible spending account expenses for reimbursement."
+"Change of Address","\\CompanyServer\publicshare\forms\addresschange.docx",ID-1004,"Human resources form to register employee change of address."
+"Content Submission","\\CompanyServer\publicshare\forms\contentsubmit.docx",ID-1005,"Work form to submit new articles for publication."
+"Workspace Request","\\CompanyServer\publicshare\forms\workspacerequest.docx",ID-1006,"Facilities department form for service request."
+"Direct Deposit Authorization","\\CompanyServer\publicshare\forms\directdepositauth.docx",ID-1007,"Employee form to sign-up for direct deposit of paycheck."
+"Benefits Enrollment","\\CompanyServer\publicshare\forms\enrollbenefits.docx",ID-1008,"Benefits form to enroll in workplace benefits."
+"Travel Request","\\CompanyServer\publicshare\forms\travelrequest.docx",ID-1009,"Finance department form to request business related travel."
+"Expense Report","\\CompanyServer\publicshare\forms\expensereport.xlsx",ID-1010,"Finance department form to submit expenses for reimbursement"
